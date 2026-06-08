@@ -43,4 +43,4 @@ Machine learning algorithms can effectively classify flower species using petal 
 
 ### Author
 
-Shreya Radadiya
+Daksh Chovatiya
